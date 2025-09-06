@@ -1,6 +1,6 @@
 import torch
 from tqdm import tqdm
-from FeaturesExtractor.Methods import Method 
+from FeatureExtractor.Methods import Method 
 from Data import Dataset
 
 class patchcore():
